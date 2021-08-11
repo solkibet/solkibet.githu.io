@@ -1,2 +1,2 @@
-# solkibet.githu.io
+# solkibet.github.io
 gb file
